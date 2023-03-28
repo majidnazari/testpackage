@@ -1,0 +1,19 @@
+{
+    "name": "aref/cms",
+    "autoload": {
+        "psr-4": {
+            "Aref\\Cms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "majid nazari",
+            "email": "majidnazarister@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/support":"~5",
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
