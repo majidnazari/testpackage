@@ -15,7 +15,5 @@
         "illuminate/support":"~5",
         "php": ">=7.4",
         "another-vendor/package": "1.*"
-    },
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    }
 }
