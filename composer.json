@@ -14,7 +14,7 @@
     "require": {
         "illuminate/support":"^5.0.0",
         "php": ">=7.4",
-        "another-vendor/package": "1.*"
+        "another-vendor/package": "1.0"
     },
     "minimum-stability": "stable",
     "prefer-stable": true
